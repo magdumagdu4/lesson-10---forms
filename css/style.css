@@ -1,0 +1,40 @@
+h1 {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.forms {
+    display: flex;
+}
+.left-box {
+    max-width: 720px;
+    width: 100%;
+    height: 288px;
+    margin-right: 10px;
+
+}
+.right-boxes {
+    max-width: 352px;
+    width: 100%;    
+}
+.box {
+    margin-bottom: 12px;
+}
+.description {
+    max-width: 720px;
+    width: 100%;
+    height: 288px;
+}
+.but {
+    max-width: 352px;
+    width: 100%;
+    height: 60px;
+}
+.button-send {
+    max-width: 352px;
+    width: 100%;
+    height: 60px;
+    background-color:  blue;
+    color: white;
+    border-radius: 10px;
+}
